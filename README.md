@@ -1,4 +1,6 @@
 # WebScrapping & Data Processing Project
+**-> Objectif : Etudier l'évolution des prix des billets de train, bus et avion pour déterminer le meilleur moment pour les acheter pour chaque type de transport**
+Amélie NOYELLE - Marie DONIER
 
 Sites scrapés avec selenium :
 * https://www.tictactrip.eu/ : pour les billets de train et de bus
