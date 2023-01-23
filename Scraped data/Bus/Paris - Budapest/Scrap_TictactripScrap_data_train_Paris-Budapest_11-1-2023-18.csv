@@ -1,0 +1,25 @@
+Date_Scrap,Heure_Scrap,Horaire_Depart,Horaire_Arrivee,ville_depart,ville_arrivee,Gare_Depart,Gare_Arrivee,Prix_Train,Duree_Train,Escale_Train
+11-Jan,18,09:05,06:40,Paris,Budapest,Bercy Seine,Budapest Kelenföld,67.98 €,21h35,1 stop 
+11-Jan,18,09:05,07:05,Paris,Budapest,Bercy Seine,Budapest,67.98 €,22h00,1 stop 
+11-Jan,18,09:05,07:30,Paris,Budapest,Bercy Seine,Budapest Airport,78.98 €,22h25,1 stop 
+11-Jan,18,13:10,18:20,Paris,Budapest,Paris Aéroport Orly Sud Parking P4C,Budapest Kelenföld,82.99 €,29h10,1 stop 
+11-Jan,18,13:10,18:40,Paris,Budapest,Paris Aéroport Orly Sud Parking P4C,Budapest,82.99 €,29h30,1 stop 
+11-Jan,18,16:40,18:20,Paris,Budapest,Bercy Seine,Budapest Kelenföld,61.98 €,25h40,1 stop 
+11-Jan,18,16:40,18:40,Paris,Budapest,Bercy Seine,Budapest,61.98 €,26h00,1 stop 
+11-Jan,18,16:40,07:30,Paris,Budapest,Bercy Seine,Budapest Airport,73.98 €,38h50,1 stop 
+11-Jan,18,17:20,18:20,Paris,Budapest,Paris Bercy,Budapest Kelenföld,82.99 €,25h00,1 stop 
+11-Jan,18,17:20,18:40,Paris,Budapest,Paris Bercy,Budapest,82.99 €,25h20,1 stop 
+11-Jan,18,19:15,18:20,Paris,Budapest,Paris Bercy,Budapest Kelenföld,64.98 €,23h05,1 stop 
+11-Jan,18,19:15,18:40,Paris,Budapest,Paris Bercy,Budapest,64.98 €,23h25,1 stop 
+11-Jan,18,19:15,18:20,Paris,Budapest,Paris Bercy,Budapest Kelenföld,85.48 €,23h05,1 stop 
+11-Jan,18,19:15,18:40,Paris,Budapest,Paris Bercy,Budapest,85.48 €,23h25,1 stop 
+11-Jan,18,19:15,06:40,Paris,Budapest,Paris Bercy,Budapest Kelenföld,57.88 €,35h25,1 stop 
+11-Jan,18,19:15,07:05,Paris,Budapest,Paris Bercy,Budapest,57.88 €,35h50,1 stop 
+11-Jan,18,19:15,07:30,Paris,Budapest,Paris Bercy,Budapest Airport,71.88 €,36h15,1 stop 
+11-Jan,18,19:15,07:30,Paris,Budapest,Paris Bercy,Budapest Airport,76.98 €,36h15,1 stop 
+11-Jan,18,21:00,18:20,Paris,Budapest,Bercy Seine,Budapest Kelenföld,76.99 €,21h20,Direct 
+11-Jan,18,21:00,18:40,Paris,Budapest,Bercy Seine,Budapest,76.99 €,21h40,Direct 
+11-Jan,18,21:00,06:40,Paris,Budapest,Bercy Seine,Budapest Kelenföld,65.98 €,33h40,1 stop 
+11-Jan,18,21:00,07:05,Paris,Budapest,Bercy Seine,Budapest,65.98 €,34h05,1 stop 
+11-Jan,18,21:00,07:30,Paris,Budapest,Bercy Seine,Budapest Airport,78.98 €,34h30,1 stop 
+11-Jan,18,21:00,07:30,Paris,Budapest,Bercy Seine,Budapest Airport,85.98 €,34h30,1 stop 

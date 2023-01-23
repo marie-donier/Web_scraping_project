@@ -1,0 +1,7 @@
+Date_Scrap,Heure_Scrap,Horaire_Depart,Horaire_Arrivee,ville_depart,ville_arrivee,Gare_Depart,Gare_Arrivee,Prix_Train,Duree_Train,Escale_Train
+12-Jan,16,09:05,06:40,Paris,Budapest,Bercy Seine,Budapest Kelenföld,67.98 €,21h35,1 stop 
+12-Jan,16,09:05,07:05,Paris,Budapest,Bercy Seine,Budapest,67.98 €,22h00,1 stop 
+12-Jan,16,09:05,07:30,Paris,Budapest,Bercy Seine,Budapest Airport,78.98 €,22h25,1 stop 
+12-Jan,16,13:10,18:20,Paris,Budapest,Paris Aéroport Orly Sud Parking P4C,Budapest Kelenföld,82.99 €,29h10,1 stop 
+12-Jan,16,13:10,18:40,Paris,Budapest,Paris Aéroport Orly Sud Parking P4C,Budapest,82.99 €,29h30,1 stop 
+12-Jan,16,16:40,18:20,Paris,Budapest,Bercy Seine,Budapest Kelenföld,61.98 €,25h40,1 stop 
