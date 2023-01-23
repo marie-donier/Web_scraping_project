@@ -1,0 +1,75 @@
+Date_Scrap,Heure_Scrap,Horaire_Depart,Horaire_Arrivee,ville_depart,ville_arrivee,Gare_Depart,Gare_Arrivee,Prix_Train,Duree_Train,Escale_Train
+16-Jan,21,05:46,07:56,Paris,Lyon,Paris Gare de Lyon,Lyon Part Dieu,42.00 €,2h10,Direct 
+16-Jan,21,05:46,08:10,Paris,Lyon,Paris Gare de Lyon,Lyon Perrache,42.00 €,2h24,Direct 
+16-Jan,21,06:06,08:08,Paris,Lyon,Paris Gare de Lyon,Lyon Part Dieu,29.00 €,2h02,Direct 
+16-Jan,21,06:06,08:21,Paris,Lyon,Paris Gare de Lyon,Lyon Perrache,28.00 €,2h15,Direct 
+16-Jan,21,06:12,08:05,Paris,Lyon,Paris Gare de Lyon,Lyon-Saint Exupery Tgv,31.00 €,1h53,Direct 
+16-Jan,21,06:54,09:10,Paris,Lyon,Paris Gare de Lyon,Lyon Perrache,76.00 €,2h16,Direct 
+16-Jan,21,07:07,09:00,Marne la Vallée - Chessy,Lyon,Marne-la Vallée Chessy Disneyland Paris,Lyon Part Dieu,45.00 €,1h53,Direct 
+16-Jan,21,07:09,09:05,Paris,Lyon,Paris Gare de Lyon,Lyon-Saint Exupery Tgv,46.00 €,1h56,Direct 
+16-Jan,21,07:19,09:22,Paris,Lyon,Paris Gare de Lyon,Lyon Part Dieu,76.00 €,2h03,Direct 
+16-Jan,21,07:19,09:36,Paris,Lyon,Paris Gare de Lyon,Lyon Perrache,80.00 €,2h17,Direct 
+16-Jan,21,07:24,09:30,Paris,Lyon,Paris Massy Tgv,Lyon Part Dieu,52.00 €,2h06,Direct 
+16-Jan,21,07:35,12:42,Paris,Lyon,Paris Bercy,Lyon Part Dieu,65.60 €,5h07,Direct 
+16-Jan,21,07:48,09:56,Paris,Lyon,Paris Gare de Lyon,Lyon Part Dieu,90.00 €,2h08,Direct 
+16-Jan,21,08:40,10:30,Marne la Vallée - Chessy,Lyon,Marne-la Vallée Chessy Disneyland Paris,Lyon Part Dieu,65.00 €,1h50,Direct 
+16-Jan,21,08:57,10:56,Paris,Lyon,Paris Gare de Lyon,Lyon Part Dieu,60.00 €,1h59,Direct 
+16-Jan,21,09:10,11:02,Marne la Vallée - Chessy,Lyon,Marne-la Vallée Chessy Disneyland Paris,Lyon Part Dieu,28.00 €,1h52,Direct 
+16-Jan,21,09:19,11:26,Paris,Lyon,Paris Massy Tgv,Lyon Part Dieu,76.00 €,2h07,Direct 
+16-Jan,21,09:54,11:56,Paris,Lyon,Paris Gare de Lyon,Lyon Part Dieu,60.00 €,2h02,Direct 
+16-Jan,21,09:54,12:10,Paris,Lyon,Paris Gare de Lyon,Lyon Perrache,65.00 €,2h16,Direct 
+16-Jan,21,10:10,12:05,Paris,Lyon,Paris Gare de Lyon,Lyon-Saint Exupery Tgv,45.00 €,1h55,Direct 
+16-Jan,21,10:12,12:03,Marne la Vallée - Chessy,Lyon,Marne-la Vallée Chessy Disneyland Paris,Lyon Part Dieu,94.00 €,1h51,Direct 
+16-Jan,21,10:39,12:33,Paris,Lyon,Paris Gare de Lyon,LYON Aéroport Saint Exupéry,20.00 €,1h54,Direct 
+16-Jan,21,10:57,12:56,Paris,Lyon,Paris Gare de Lyon,Lyon Part Dieu,60.00 €,1h59,Direct 
+16-Jan,21,10:57,13:10,Paris,Lyon,Paris Gare de Lyon,Lyon Perrache,60.00 €,2h13,Direct 
+16-Jan,21,11:48,14:10,Paris,Lyon,Paris Gare de Lyon,Lyon Perrache,60.00 €,2h22,Direct 
+16-Jan,21,12:08,14:05,Paris,Lyon,Paris Gare de Lyon,Lyon-Saint Exupery Tgv,45.00 €,1h57,Direct 
+16-Jan,21,12:11,14:04,Marne la Vallée - Chessy,Lyon,Marne-la Vallée Chessy Disneyland Paris,Lyon Part Dieu,56.00 €,1h53,Direct 
+16-Jan,21,12:23,14:22,Paris,Lyon,Paris Gare de Lyon,Lyon Part Dieu,23.00 €,1h59,Direct 
+16-Jan,21,12:23,14:36,Paris,Lyon,Paris Gare de Lyon,Lyon Perrache,29.00 €,2h13,Direct 
+16-Jan,21,12:46,14:33,Marne la Vallée - Chessy,Lyon,Marne-la Vallée Chessy Disneyland Paris,LYON Aéroport Saint Exupéry,30.00 €,1h47,Direct 
+16-Jan,21,12:49,14:56,Paris,Lyon,Paris Gare de Lyon,Lyon Part Dieu,45.00 €,2h07,Direct 
+16-Jan,21,12:49,15:10,Paris,Lyon,Paris Gare de Lyon,Lyon Perrache,45.00 €,2h21,Direct 
+16-Jan,21,13:35,18:42,Paris,Lyon,Paris Bercy,Lyon Part Dieu,65.60 €,5h07,Direct 
+16-Jan,21,13:46,15:56,Paris,Lyon,Paris Gare de Lyon,Lyon Part Dieu,56.00 €,2h10,Direct 
+16-Jan,21,13:58,15:55,Paris,Lyon,Paris Gare de Lyon,Lyon-Saint Exupery Tgv,31.00 €,1h57,Direct 
+16-Jan,21,14:12,16:02,Marne la Vallée - Chessy,Lyon,Marne-la Vallée Chessy Disneyland Paris,Lyon Part Dieu,25.00 €,1h50,Direct 
+16-Jan,21,14:24,16:30,Paris,Lyon,Paris Massy Tgv,Lyon Part Dieu,79.00 €,2h06,Direct 
+16-Jan,21,14:34,16:29,Paris,Lyon,Paris Gare de Lyon,LYON Aéroport Saint Exupéry,23.00 €,1h55,Direct 
+16-Jan,21,14:59,16:56,Paris,Lyon,Paris Gare de Lyon,Lyon Part Dieu,56.00 €,1h57,Direct 
+16-Jan,21,14:59,17:10,Paris,Lyon,Paris Gare de Lyon,Lyon Perrache,56.00 €,2h11,Direct 
+16-Jan,21,15:12,17:00,Marne la Vallée - Chessy,Lyon,Marne-la Vallée Chessy Disneyland Paris,Lyon Part Dieu,76.00 €,1h48,Direct 
+16-Jan,21,15:26,17:30,Paris,Lyon,Paris Massy Tgv,Lyon Part Dieu,68.00 €,2h04,Direct 
+16-Jan,21,15:26,17:49,Paris,Lyon,Paris Massy Tgv,Lyon Perrache,68.00 €,2h23,Direct 
+16-Jan,21,15:34,20:42,Paris,Lyon,Paris Bercy,Lyon Part Dieu,65.60 €,5h08,Direct 
+16-Jan,21,15:49,18:03,Paris,Lyon,Paris Gare de Lyon,Lyon Part Dieu,45.00 €,2h14,Direct 
+16-Jan,21,15:49,18:17,Paris,Lyon,Paris Gare de Lyon,Lyon Perrache,45.00 €,2h28,Direct 
+16-Jan,21,16:08,18:05,Paris,Lyon,Paris Gare de Lyon,Lyon-Saint Exupery Tgv,54.00 €,1h57,Direct 
+16-Jan,21,16:54,18:42,Marne la Vallée - Chessy,Lyon,Marne-la Vallée Chessy Disneyland Paris,LYON Aéroport Saint Exupéry,29.00 €,1h48,Direct 
+16-Jan,21,16:58,18:56,Paris,Lyon,Paris Gare de Lyon,Lyon Part Dieu,83.00 €,1h58,Direct 
+16-Jan,21,17:08,19:05,Paris,Lyon,Paris Gare de Lyon,Lyon-Saint Exupery Tgv,38.00 €,1h57,Direct 
+16-Jan,21,17:23,19:22,Paris,Lyon,Paris Gare de Lyon,Lyon Part Dieu,68.00 €,1h59,Direct 
+16-Jan,21,17:23,19:36,Paris,Lyon,Paris Gare de Lyon,Lyon Perrache,68.00 €,2h13,Direct 
+16-Jan,21,17:27,22:42,Paris,Lyon,Paris Bercy,Lyon Part Dieu,65.60 €,5h15,Direct 
+16-Jan,21,17:43,19:56,Paris,Lyon,Paris Gare de Lyon,Lyon Part Dieu,83.00 €,2h13,Direct 
+16-Jan,21,17:43,19:56,Paris,Lyon,Paris Gare de Lyon,Lyon Part Dieu,83.00 €,2h13,Direct 
+16-Jan,21,17:43,20:10,Paris,Lyon,Paris Gare de Lyon,Lyon Perrache,80.00 €,2h27,Direct 
+16-Jan,21,18:11,20:04,Marne la Vallée - Chessy,Lyon,Marne-la Vallée Chessy Disneyland Paris,Lyon Part Dieu,76.00 €,1h53,Direct 
+16-Jan,21,18:17,22:57,Paris,Lyon,Paris Bercy,Lyon Part Dieu,28.00 €,4h40,Direct 
+16-Jan,21,18:23,20:22,Paris,Lyon,Paris Gare de Lyon,Lyon Part Dieu,23.00 €,1h59,Direct 
+16-Jan,21,18:23,20:36,Paris,Lyon,Paris Gare de Lyon,Lyon Perrache,23.00 €,2h13,Direct 
+16-Jan,21,18:28,20:36,Paris,Lyon,Massy Palaiseau,Lyon Part Dieu,45.00 €,2h08,Direct 
+16-Jan,21,18:28,20:50,Paris,Lyon,Paris Gare de Lyon,Lyon Perrache,60.00 €,2h22,Direct 
+16-Jan,21,18:59,20:56,Paris,Lyon,Paris Gare de Lyon,Lyon Part Dieu,83.00 €,1h57,Direct 
+16-Jan,21,18:59,20:56,Paris,Lyon,Paris Gare de Lyon,Lyon Part Dieu,83.00 €,1h57,Direct 
+16-Jan,21,19:11,21:05,Paris,Lyon,Paris Gare de Lyon,Lyon-Saint Exupery Tgv,38.00 €,1h54,Direct 
+16-Jan,21,19:25,21:22,Paris,Lyon,Paris Gare de Lyon,Lyon Part Dieu,45.00 €,1h57,Direct 
+16-Jan,21,19:25,21:36,Paris,Lyon,Paris Gare de Lyon,Lyon Perrache,45.00 €,2h11,Direct 
+16-Jan,21,19:26,21:30,Paris,Lyon,Paris Massy Tgv,Lyon Part Dieu,56.00 €,2h04,Direct 
+16-Jan,21,19:26,21:47,Paris,Lyon,Paris Massy Tgv,Lyon Perrache,56.00 €,2h21,Direct 
+16-Jan,21,19:55,21:52,Paris,Lyon,Paris Gare de Lyon,Lyon Part Dieu,45.00 €,1h57,Direct 
+16-Jan,21,19:55,22:06,Paris,Lyon,Paris Gare de Lyon,Lyon Perrache,45.00 €,2h11,Direct 
+16-Jan,21,20:12,22:00,Marne la Vallée - Chessy,Lyon,Marne-la Vallée Chessy Disneyland Paris,Lyon Part Dieu,38.00 €,1h48,Direct 
+16-Jan,21,20:43,22:59,Paris,Lyon,Paris Gare de Lyon,Lyon Part Dieu,45.00 €,2h16,Direct 
+16-Jan,21,20:56,22:46,Marne la Vallée - Chessy,Lyon,Marne-la Vallée Chessy Disneyland Paris,Lyon Part Dieu,35.00 €,1h50,Direct 
