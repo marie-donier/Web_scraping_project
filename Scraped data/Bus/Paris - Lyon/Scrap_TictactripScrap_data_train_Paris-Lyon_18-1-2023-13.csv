@@ -1,0 +1,26 @@
+Date_Scrap,Heure_Scrap,Horaire_Depart,Horaire_Arrivee,ville_depart,ville_arrivee,Gare_Depart,Gare_Arrivee,Prix_Train,Duree_Train,Escale_Train
+18-Jan,13,00:20,06:55,Paris,Lyon,Paris CDG Terminal,Lyon Perrache,27.99 €,6h35,Direct 
+18-Jan,13,00:30,06:00,Paris,Lyon,Bercy Seine,Lyon Perrache,14.99 €,5h30,Direct 
+18-Jan,13,01:10,06:55,Paris,Lyon,Bercy Seine,Lyon Perrache,18.99 €,5h45,Direct 
+18-Jan,13,06:10,12:05,Paris,Lyon,Paris Bercy,Lyon Gare Routière Perrache,10.00 €,5h55,Direct 
+18-Jan,13,08:40,14:30,Paris,Lyon,Bercy Seine,Lyon Perrache,14.99 €,5h50,Direct 
+18-Jan,13,09:00,14:50,Paris,Lyon,Paris Bercy,Lyon Gare Routière Perrache,14.29 €,5h50,Direct 
+18-Jan,13,09:00,15:15,Paris,Lyon,Bercy Seine,Lyon Perrache,9.99 €,6h15,Direct 
+18-Jan,13,09:45,16:05,Paris,Lyon,Bercy Seine,Lyon Perrache,14.99 €,6h20,Direct 
+18-Jan,13,12:15,18:50,Paris,Lyon,Paris Bercy,Lyon Gare Routière Perrache,10.00 €,6h35,Direct 
+18-Jan,13,14:30,20:45,Paris,Lyon,Bercy Seine,Lyon Perrache,18.99 €,6h15,Direct 
+18-Jan,13,15:30,22:10,Paris,Lyon,Paris CDG Terminal,Lyon Perrache,20.99 €,6h40,Direct 
+18-Jan,13,16:30,22:10,Paris,Lyon,Bercy Seine,Lyon Perrache,14.99 €,5h40,Direct 
+18-Jan,13,17:15,23:05,Paris,Lyon,Bercy Seine,Lyon Perrache,18.99 €,5h50,Direct 
+18-Jan,13,18:15,23:45,Paris,Lyon,Bercy Seine,Lyon Perrache,18.99 €,5h30,Direct 
+18-Jan,13,18:45,00:15,Paris,Lyon,Paris Bercy,Lyon Gare Routière Perrache,14.29 €,5h30,Direct 
+18-Jan,13,19:15,01:10,Paris,Lyon,Bercy Seine,Lyon Perrache,18.99 €,5h55,Direct 
+18-Jan,13,20:00,01:30,Paris,Lyon,Paris Bercy,Lyon Gare Routière Perrache,10.00 €,5h30,Direct 
+18-Jan,13,21:45,03:30,Paris,Lyon,Paris Bercy,Lyon Gare Routière Perrache,10.00 €,5h45,Direct 
+18-Jan,13,21:55,03:20,Paris,Lyon,Bercy Seine,Lyon Perrache,18.99 €,5h25,Direct 
+18-Jan,13,22:40,05:15,Paris,Lyon,Paris Pont de Levallois,Lyon Perrache,18.99 €,6h35,Direct 
+18-Jan,13,22:45,04:30,Paris,Lyon,Paris Bercy,Lyon Gare Routière Perrache,18.69 €,5h45,Direct 
+18-Jan,13,23:20,04:30,Paris,Lyon,Paris Aéroport Orly Sud Parking P4C,Lyon Gare Routière Perrache,21.99 €,5h10,Direct 
+18-Jan,13,23:20,05:15,Paris,Lyon,Paris Bercy,Lyon Gare Routière Perrache,10.00 €,5h55,Direct 
+18-Jan,13,23:30,05:15,Paris,Lyon,Bercy Seine,Lyon Perrache,18.99 €,5h45,Direct 
+18-Jan,13,23:59,05:15,Paris,Lyon,Paris Aéroport Orly Sud Parking P4C,Lyon Perrache,38.99 €,5h16,Direct 
