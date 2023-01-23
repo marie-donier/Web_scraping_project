@@ -1,0 +1,6 @@
+Date_Scrap,Heure_Scrap,Horaire_Depart,Horaire_Arrivee,ville_depart,ville_arrivee,Gare_Depart,Gare_Arrivee,Prix_Train,Duree_Train,Escale_Train
+16-Jan,10,06:55,10:05,Paris,Stuttgart,Paris Est,Stuttgart,75.00 €,3h10,Direct 
+16-Jan,10,10:55,14:05,Paris,Stuttgart,Paris Est,Stuttgart,80.00 €,3h10,Direct 
+16-Jan,10,13:55,17:04,Paris,Stuttgart,Paris Est,Stuttgart,70.00 €,3h09,Direct 
+16-Jan,10,15:55,19:04,Paris,Stuttgart,Paris Est,Stuttgart,80.00 €,3h09,Direct 
+16-Jan,10,17:55,21:04,Paris,Stuttgart,Paris Est,Stuttgart,70.00 €,3h09,Direct 
